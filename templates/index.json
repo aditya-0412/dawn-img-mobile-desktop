@@ -36,8 +36,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/theme_cover_image.jpg",
-        "image_2": "shopify://shop_images/brush_db455ff6-e95a-4ffb-94c2-6a0330a99452.png",
+        "image": "shopify://shop_images/brush.png",
+        "image_2": "shopify://shop_images/side-image-2.png",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "image_behavior": "none",
